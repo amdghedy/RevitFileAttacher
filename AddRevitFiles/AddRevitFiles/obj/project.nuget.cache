@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zx9lOrpJ5NqMtiIIPdLil5jeLPhvCR40HwZTn7auy7+E5FFxcfyyj0qHSEJoYzqaNns2ZVfPbO53kCl7tkP/aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adghedy\\OneDrive\\Desktop\\AddRevitFiles\\AddRevitFiles\\AddRevitFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adghedy\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\adghedy\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

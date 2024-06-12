@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Command">
+
+		<Name>AddRevitFile</Name>
+
+		<FullClassName>RevitAddin.AddRevitFiles</FullClassName>
+
+		<Text>Add Revit File</Text>
+
+		<Description>Add Revit Files</Description>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<Assembly>AddRevitFiles.dll</Assembly>
+
+		<AddInId>
+			6C18EEE0-F7ED-40F2-B6E6-1BC1FD7959B5
+		</AddInId>
+
+		<VendorId>Amdghedy</VendorId>
+
+		<VendorDescription>Abdelrahim Deghidy, BIM Manager, Revit Developer Tel:+201001877018</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>

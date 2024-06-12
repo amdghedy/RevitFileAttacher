@@ -1,0 +1,6 @@
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\bin\Debug\AddRevitFiles.dll
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\bin\Debug\AddRevitFiles.pdb
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\Debug\AddRevitFiles.csproj.AssemblyReference.cache
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\Debug\AddRevitFiles.csproj.CoreCompileInputs.cache
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\Debug\AddRevitFiles.dll
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\Debug\AddRevitFiles.pdb

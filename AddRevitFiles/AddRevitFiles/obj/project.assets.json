@@ -1,0 +1,303 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Microsoft-WindowsAPICodePack-Core/1.1.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net48/Microsoft.WindowsAPICodePack.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Microsoft.WindowsAPICodePack.dll": {}
+        }
+      },
+      "Microsoft-WindowsAPICodePack-Shell/1.1.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft-WindowsAPICodePack-Core": "1.1.5"
+        },
+        "frameworkAssemblies": [
+          "CustomMarshalers",
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xaml",
+          "System.Xml",
+          "WindowsBase",
+          "WindowsFormsIntegration"
+        ],
+        "compile": {
+          "lib/net48/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "Microsoft-WindowsAPICodePack-Core/1.1.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net48/Microsoft.WindowsAPICodePack.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Microsoft.WindowsAPICodePack.dll": {}
+        }
+      },
+      "Microsoft-WindowsAPICodePack-Shell/1.1.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft-WindowsAPICodePack-Core": "1.1.5"
+        },
+        "frameworkAssemblies": [
+          "CustomMarshalers",
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xaml",
+          "System.Xml",
+          "WindowsBase",
+          "WindowsFormsIntegration"
+        ],
+        "compile": {
+          "lib/net48/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "Microsoft-WindowsAPICodePack-Core/1.1.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net48/Microsoft.WindowsAPICodePack.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Microsoft.WindowsAPICodePack.dll": {}
+        }
+      },
+      "Microsoft-WindowsAPICodePack-Shell/1.1.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft-WindowsAPICodePack-Core": "1.1.5"
+        },
+        "frameworkAssemblies": [
+          "CustomMarshalers",
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xaml",
+          "System.Xml",
+          "WindowsBase",
+          "WindowsFormsIntegration"
+        ],
+        "compile": {
+          "lib/net48/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "Microsoft-WindowsAPICodePack-Core/1.1.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net48/Microsoft.WindowsAPICodePack.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Microsoft.WindowsAPICodePack.dll": {}
+        }
+      },
+      "Microsoft-WindowsAPICodePack-Shell/1.1.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft-WindowsAPICodePack-Core": "1.1.5"
+        },
+        "frameworkAssemblies": [
+          "CustomMarshalers",
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Windows.Forms",
+          "System.Xaml",
+          "System.Xml",
+          "WindowsBase",
+          "WindowsFormsIntegration"
+        ],
+        "compile": {
+          "lib/net48/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Microsoft.WindowsAPICodePack.Shell.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft-WindowsAPICodePack-Core/1.1.5": {
+      "sha512": "3feeT5wxrH/T4YmoZwCglVrUw6aS4+WJLA3FRADLVT2J85/zjptrCikvGNcLI1+gDeoI1AZ4w45gF2FvBv6eQw==",
+      "type": "package",
+      "path": "microsoft-windowsapicodepack-core/1.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/Microsoft.WindowsAPICodePack.dll",
+        "lib/net452/Microsoft.WindowsAPICodePack.xml",
+        "lib/net462/Microsoft.WindowsAPICodePack.dll",
+        "lib/net462/Microsoft.WindowsAPICodePack.xml",
+        "lib/net472/Microsoft.WindowsAPICodePack.dll",
+        "lib/net472/Microsoft.WindowsAPICodePack.xml",
+        "lib/net48/Microsoft.WindowsAPICodePack.dll",
+        "lib/net48/Microsoft.WindowsAPICodePack.xml",
+        "lib/net481/Microsoft.WindowsAPICodePack.dll",
+        "lib/net481/Microsoft.WindowsAPICodePack.xml",
+        "lib/net6.0-windows7.0/Microsoft.WindowsAPICodePack.dll",
+        "lib/net6.0-windows7.0/Microsoft.WindowsAPICodePack.xml",
+        "lib/net7.0-windows7.0/Microsoft.WindowsAPICodePack.dll",
+        "lib/net7.0-windows7.0/Microsoft.WindowsAPICodePack.xml",
+        "lib/netcoreapp3.1/Microsoft.WindowsAPICodePack.dll",
+        "lib/netcoreapp3.1/Microsoft.WindowsAPICodePack.xml",
+        "microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+        "microsoft-windowsapicodepack-core.nuspec"
+      ]
+    },
+    "Microsoft-WindowsAPICodePack-Shell/1.1.5": {
+      "sha512": "lZ+oIxvTp1Ph0YrzFl3AKcrry7OCfi0awf43nrGwodWqDlFASktZ+pN532rbU/5o09irYjxVu1m3UxO5L1H8fw==",
+      "type": "package",
+      "path": "microsoft-windowsapicodepack-shell/1.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/Microsoft.WindowsAPICodePack.Shell.dll",
+        "lib/net452/Microsoft.WindowsAPICodePack.Shell.xml",
+        "lib/net462/Microsoft.WindowsAPICodePack.Shell.dll",
+        "lib/net462/Microsoft.WindowsAPICodePack.Shell.xml",
+        "lib/net472/Microsoft.WindowsAPICodePack.Shell.dll",
+        "lib/net472/Microsoft.WindowsAPICodePack.Shell.xml",
+        "lib/net48/Microsoft.WindowsAPICodePack.Shell.dll",
+        "lib/net48/Microsoft.WindowsAPICodePack.Shell.xml",
+        "lib/net481/Microsoft.WindowsAPICodePack.Shell.dll",
+        "lib/net481/Microsoft.WindowsAPICodePack.Shell.xml",
+        "lib/net6.0-windows7.0/Microsoft.WindowsAPICodePack.Shell.dll",
+        "lib/net6.0-windows7.0/Microsoft.WindowsAPICodePack.Shell.xml",
+        "lib/net7.0-windows7.0/Microsoft.WindowsAPICodePack.Shell.dll",
+        "lib/net7.0-windows7.0/Microsoft.WindowsAPICodePack.Shell.xml",
+        "lib/netcoreapp3.1/Microsoft.WindowsAPICodePack.Shell.dll",
+        "lib/netcoreapp3.1/Microsoft.WindowsAPICodePack.Shell.xml",
+        "microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512",
+        "microsoft-windowsapicodepack-shell.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Microsoft-WindowsAPICodePack-Core >= 1.1.5",
+      "Microsoft-WindowsAPICodePack-Shell >= 1.1.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\adghedy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\adghedy\\OneDrive\\Desktop\\AddRevitFiles\\AddRevitFiles\\AddRevitFiles.csproj",
+      "projectName": "AddRevitFiles",
+      "projectPath": "C:\\Users\\adghedy\\OneDrive\\Desktop\\AddRevitFiles\\AddRevitFiles\\AddRevitFiles.csproj",
+      "packagesPath": "C:\\Users\\adghedy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adghedy\\OneDrive\\Desktop\\AddRevitFiles\\AddRevitFiles\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\adghedy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Microsoft-WindowsAPICodePack-Core": {
+            "target": "Package",
+            "version": "[1.1.5, )"
+          },
+          "Microsoft-WindowsAPICodePack-Shell": {
+            "target": "Package",
+            "version": "[1.1.5, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

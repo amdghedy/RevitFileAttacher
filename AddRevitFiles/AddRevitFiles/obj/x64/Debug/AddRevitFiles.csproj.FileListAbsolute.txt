@@ -1,0 +1,13 @@
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\bin\x64\Debug\AddRevitFiles.dll
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\bin\x64\Debug\AddRevitFiles.pdb
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\x64\Debug\AddRevitFiles.csproj.AssemblyReference.cache
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\x64\Debug\FolderSelectionWindow.baml
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\x64\Debug\FolderSelectionWindow.g.cs
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\x64\Debug\AddRevitFiles_MarkupCompile.cache
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\x64\Debug\AddRevitFiles.g.resources
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\x64\Debug\AddRevitFiles.csproj.CoreCompileInputs.cache
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\x64\Debug\AddRevitFiles.csproj.CopyComplete
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\x64\Debug\AddRevitFiles.dll
+C:\Users\adghedy\OneDrive\Desktop\AddRevitFiles\AddRevitFiles\obj\x64\Debug\AddRevitFiles.pdb
